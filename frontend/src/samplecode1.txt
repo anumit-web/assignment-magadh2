@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<div style="font-family: 'Inter';font-size: 16px;">
+  <div style="display: flex; column-gap: 20px;">
+      <div>
+          <img src="https://storage.googleapis.com/du-prd/books/images/9781250857439.jpg" style="border-radius: 8px;width: 250px;">
+      </div>
+      <div>
+          <div><h2>Divine Rivals</h2></div>
+          <div>
+            <p>
+            When two young rival journalists find love through a magical connection, they must face the depths of hell, in a war among gods, to seal their fate forever.
+            </p>
+            <p>
+    After centuries of sleep, the gods are warring again. But eighteen-year-old Iris Winnow just wants to hold her family together. Her mother is suffering from addiction and her brother is missing from the front lines. Her best bet is to win the columnist promotion at the Oath Gazette.
+            </p>
+          </div>
+      </div>
+  </div>
+  <div style="display: flex; justify-content: center; padding-top: 30px;">
+  		<button style="background: #3a86ff;border-radius: 28px;
+  font-family: Arial; color: #ffffff;  padding: 10px 20px 10px 20px;font-size: 20px;">
+        	Purchase this book
+        </button>
+  </div>
+</div>
+
+</body>
+</html>

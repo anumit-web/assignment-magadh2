@@ -1,0 +1,9 @@
+.div2_style {
+	display: flex; 
+	column-gap: 20px;
+}
+
+#div2_style {
+	display: flex; 
+	column-gap: 20px;
+}

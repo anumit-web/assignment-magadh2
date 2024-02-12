@@ -1,0 +1,43 @@
+.h1_style_1 {
+	font-family: 'Inter';
+	margin: auto;
+  	width: 80%;
+}
+
+.div1_style {
+	font-family: 'Inter';
+	font-size: 16px;
+	margin: auto;
+  	width: 80%;
+}
+
+
+.div2_style {
+	display: flex; 
+	column-gap: 20px;
+}
+
+.div3_style {
+	display: flex; 
+	justify-content: center; 
+	padding-top: 30px;
+}
+
+
+.image_style {
+	border-radius: 8px;
+	width: 250px;
+}
+
+.button1_style{
+	background: #3a86ff;
+	border-radius: 28px;
+    font-family: Inter; 
+    color: #ffffff;  
+    padding: 10px 20px 10px 20px;font-size: 
+    20px;
+}
+
+.hide_it {
+	display: none;
+}
